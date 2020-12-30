@@ -26,12 +26,11 @@ app.register_blueprint(users)
 #  git config --global user.name "Unknown-21-m"
 #  git commit -m "Initialize Project"
 #  git push --set-upstream origin master
+# git push --set-upstream origin main
 #  git push
 
-    # git commit -m "first commit"
-    # git branch -M main
-    # git remote add origin https://github.com/unknown-21-m/flask.git
-    # git push -u origin main
+    #  git remote remove origin
+
 
 # to add a file and update
 # git add filename
